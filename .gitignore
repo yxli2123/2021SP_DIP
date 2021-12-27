@@ -1,0 +1,5 @@
+# ignore all pdf and pages
+*.pdf
+*.pages
+*.ppt
+*.pptx
